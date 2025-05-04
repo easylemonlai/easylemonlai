@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a Master student in Tokyo Institute of Technology.🤓
 I'm learning java, python and developing a simple game with my friends!🥳
-![描述文字](https://github.com/你的用户名/你的repo名/raw/main/角色1.gif)
+![描述文字](https://github.com/easylemonlai/easylemonlai/blob/main/%E8%A7%92%E8%89%B21.gif?raw=true)
 <!--
 **easylemonlai/easylemonlai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
