@@ -4,9 +4,9 @@ I'm developing a simple game with my friends!🥳
 ![描述文字](https://github.com/easylemonlai/easylemonlai/blob/main/%E8%A7%92%E8%89%B21.gif?raw=true)  
 ![描述文字](https://github.com/easylemonlai/easylemonlai/blob/main/%E6%97%A5%E6%9C%AC%E7%9D%A1%E8%A7%89.gif?raw=true)  
 ## 📊 GitHub Stats  
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easylemonlai&layout=compact&theme=tokyonight)  
 ![easylemonlai's GitHub stats](https://github-readme-stats.vercel.app/api?username=easylemonlai&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easylemonlai&layout=compact&theme=tokyonight)
+
 
 ## 🏆 GitHub Profile Trophy  
 
