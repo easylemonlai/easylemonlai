@@ -1,9 +1,9 @@
 ## Hi there 👋
 I'm a Master student at Tokyo Institute of Technology.🤓  
 I'm developing 2d pixel games with my friends!🥳  
-## 🎮 Play My Game: Mengpo Soup
+## 🎮 Play Our fir Game: Mengpo Soup
 
-<h3 align="center">🎮 Play My Game: Mengpo Soup</h3>
+<h3 align="center">🎮 Play Our First Game: Mengpo Soup</h3>
 
 <p align="center">
   <img src="https://github.com/easylemonlai/easylemonlai/blob/main/coffeebean2.gif?raw=true" width="500"/>
