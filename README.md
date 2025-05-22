@@ -1,19 +1,16 @@
 ## Hi there 👋
 I'm a Master student at Tokyo Institute of Technology.🤓  
 I'm developing 2d pixel games with my friends!🥳  
-![描述文字](https://github.com/easylemonlai/easylemonlai/blob/main/%E8%A7%92%E8%89%B21.gif?raw=true)  
-![描述文字](https://github.com/easylemonlai/easylemonlai/blob/main/%E6%97%A5%E6%9C%AC%E7%9D%A1%E8%A7%89.gif?raw=true)  
 ## 🎮 Play My Game: Mengpo Soup
-![coffeebean2](https://github.com/easylemonlai/easylemonlai/blob/main/coffeebean2.gif?raw=true)
 
+<h3 align="center">🎮 Play My Game: Mengpo Soup</h3>
 
 <p align="center">
-  <a href="https://coldheartlemon.itch.io/mengposoup" target="_blank">
-  </a>
+  <img src="https://github.com/easylemonlai/easylemonlai/blob/main/coffeebean2.gif?raw=true" width="500"/>
 </p>
 
 <p align="center">
-  👉 <a href="https://coldheartlemon.itch.io/mengposoup" target="_blank">Click here to play on itch.io</a>
+  <a href="https://coldheartlemon.itch.io/mengposoup" target="_blank">Click here to play on itch.io</a>
 </p>
 
 
