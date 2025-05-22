@@ -7,7 +7,6 @@ I'm developing 2d pixel games with my friends!🥳
 
 <p align="center">
   <a href="https://coldheartlemon.itch.io/mengposoup" target="_blank">
-    <img src="https://img.itch.zone/aW1nLzE2ODAxMTg0LnBuZw==/original/2tMIvb.png" width="640"/>
   </a>
 </p>
 
