@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a BI associate for an evil Japanese private equity firm. I might post some hotel revenue management tips/ OTA tips/dashboard for revenue management here. Take a look!
+I'm a BI associate for an evil Chinese-Japanese private equity firm. I might post some hotel revenue management tips/ OTA tips/dashboard for revenue management here. Take a look!
 BTW, I've made a cute but buggy little game with my friends when I was in school, appreciate if you'd like to try it!🥳  
 ## 🎮 Play Our First Game: Mengpo Soup
 
