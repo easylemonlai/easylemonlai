@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm a Master student at Tokyo Institute of Technology.🤓  
-I'm developing 2d pixel games with my friends!🥳  
+I'm a BI associate for an evil Japanese private equity firm. I might post some hotel revenue management tips/ OTA tips/dashboard for revenue management here. Take a look!
+BTW, I've made a cute but buggy little game with my friends when I was in school, appreciate if you'd like to try it!🥳  
 ## 🎮 Play Our First Game: Mengpo Soup
 
 
@@ -11,18 +11,6 @@ I'm developing 2d pixel games with my friends!🥳
 <p align="center">
   <a href="https://coldheartlemon.itch.io/mengposoup" target="_blank">Click here to play on itch.io</a>
 </p>
-
-
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easylemonlai&layout=compact&theme=tokyonight)  
-![easylemonlai's GitHub stats](https://github-readme-stats.vercel.app/api?username=easylemonlai&show_icons=true&theme=tokyonight)  
-
-
-## 🏆 GitHub Profile Trophy  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=easylemonlai&theme=dracula&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
 <!--
